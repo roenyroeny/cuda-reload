@@ -1,0 +1,7 @@
+build/
+bin/
+*.ptx
+*.obj
+*.exe
+*.pdb
+*.ilk
